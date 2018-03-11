@@ -13,3 +13,12 @@ function ninjaBabySelector(){
   const ninjababy = $("#baby-ninja");
   return ninjababy;
 }
+
+function divSelector(){
+  const divpics = $(".pics");
+  return divpics;
+}
+
+function firstListItem(){
+  const firstlist = $("ul li:")
+}

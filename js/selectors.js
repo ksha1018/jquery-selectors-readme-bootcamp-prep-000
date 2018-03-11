@@ -20,5 +20,5 @@ function divSelector(){
 }
 
 function firstListItem(){
-  const firstlist = $("ul li:")
+  const firstlist = $("ul li:first")
 }
